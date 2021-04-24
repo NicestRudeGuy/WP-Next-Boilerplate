@@ -1,5 +1,5 @@
-## ProSinder 
-##### `A place where dev share code snippets other devs can comment and converse!`
+## WP NEXT Boilerplate
+##### `Just add env and do npm i`
 
 
 
